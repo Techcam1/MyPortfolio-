@@ -3,7 +3,7 @@
 .container {
   color: var(--color-text);
   margin-top: 120px;
-  background-color: var(--color-secondary);
+  background: linear-gradient(180deg, #f76fa3 25%, #f9f5176d 75%);;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
