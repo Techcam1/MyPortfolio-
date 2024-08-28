@@ -38,6 +38,13 @@ export const Navbar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
+          <li>
+  <a href="/resume.pdf" className="download" download="My_Resume.pdf">
+    My Resume
+  </a>
+</li>
+
+        
         </ul>
       </div>
     </nav>

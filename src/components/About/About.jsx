@@ -25,12 +25,11 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>UX Designer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              I've crafted intuitive user experiences across various digital platforms and developed comprehensive design systems to ensure consistency and usability
               </p>
             </div>
           </li>
