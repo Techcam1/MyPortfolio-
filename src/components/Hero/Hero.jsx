@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm a UX/UI designer with experience in React, Node.js, Figma, and Adobe XD.
         </p>
-        <a href="cnc.williams1@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:cnc.williams1@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
